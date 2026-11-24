@@ -1,0 +1,1 @@
+{"description":"Minimal example: a token-gated remote channel inside an Electron app (assistant browsers + optional PC management)","devDependencies":{"electron":"^31.0.0"},"main":"main.js","name":"oc-channel-example","scripts":{"start":"electron ."},"version":"1.0.0"}
